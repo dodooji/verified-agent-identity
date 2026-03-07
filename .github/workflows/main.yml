@@ -8,7 +8,7 @@ on:
         required: true
         default: 'dodooji'
       agent_description:
-        description: 'asc'
+        description: 'dodo"
         required: true
         default: 'dodooji AI Agent'
 
